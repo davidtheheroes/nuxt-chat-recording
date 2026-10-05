@@ -1,9 +1,6 @@
 <template>
   <UApp>
     <NuxtRouteAnnouncer />
-    <UButton>Click me!</UButton>
+    <NuxtPage />
   </UApp>
 </template>
-<script lang="js">
-let varc = ref(true);
-</script>
